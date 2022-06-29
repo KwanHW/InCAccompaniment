@@ -2,7 +2,7 @@
   "name": "in-c",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://kwanhw.github.io/in-c",
+  "homepage": "https://kwanhw.github.io/InCAccompaniment/",
   "dependencies": {
     "@chakra-ui/react": "^2.2.1",
     "@emotion/react": "^11.9.3",
